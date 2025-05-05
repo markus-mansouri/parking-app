@@ -1,4 +1,4 @@
-package se.lexicon.view;
+package com.markus.parkingapp.view;
 
 import se.lexicon.model.Customer;
 import se.lexicon.model.ParkingSpot;

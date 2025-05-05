@@ -1,4 +1,4 @@
-package se.lexicon.schedule;
+package com.markus.parkingapp.schedule;
 
 import se.lexicon.dao.ParkingSpotDao;
 import se.lexicon.dao.ReservationDao;

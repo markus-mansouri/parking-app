@@ -1,4 +1,4 @@
-package se.lexicon.dao.impl;
+package com.markus.parkingapp.dao.impl;
 
 import se.lexicon.dao.ParkingSpotDao;
 import se.lexicon.model.ParkingSpot;

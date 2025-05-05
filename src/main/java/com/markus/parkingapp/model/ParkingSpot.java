@@ -1,4 +1,4 @@
-package se.lexicon.model;
+package com.markus.parkingapp.model;
 
 /**
  * Represents a parking spot within a parking lot.

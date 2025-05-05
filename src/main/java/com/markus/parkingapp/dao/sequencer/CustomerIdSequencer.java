@@ -1,4 +1,4 @@
-package se.lexicon.dao.sequencer;
+package com.markus.parkingapp.dao.sequencer;
 
 public class CustomerIdSequencer {
     // Static variable to hold the current ID

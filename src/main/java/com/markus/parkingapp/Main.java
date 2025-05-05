@@ -1,4 +1,4 @@
-package se.lexicon;
+package com.markus.parkingapp;
 
 import se.lexicon.controller.ParkingController;
 import se.lexicon.dao.CustomerDao;

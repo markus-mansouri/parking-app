@@ -1,4 +1,4 @@
-package se.lexicon.model;
+package com.markus.parkingapp.model;
 
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
