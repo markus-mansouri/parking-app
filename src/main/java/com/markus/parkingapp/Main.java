@@ -1,11 +1,12 @@
 package com.markus.parkingapp;
 
-import se.lexicon.controller.ParkingController;
-import se.lexicon.dao.CustomerDao;
-import se.lexicon.dao.impl.CustomerDaoImpl;
-import se.lexicon.model.Customer;
-import se.lexicon.model.Vehicle;
-import se.lexicon.view.ConsoleUI;
+import import com.markus.parkingapp.ParkingService;
+import com.markus.parkingapp.dao.CustomerDao;
+import com.markus.parkingapp.dao.impl.CustomerDaoImpl;
+import com.markus.parkingapp.model.Customer;
+import com.markus.parkingapp.model.Vehicle;
+import com.markus.parkingapp.view.ConsoleUI;
+
 
 public class Main {
     public static void main(String[] args) {
